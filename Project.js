@@ -5,4 +5,4 @@ if (condition == true) {
 }
 // for modrinth.
 const projectName = "VR Craft";
-const projectVersion = 1.
+const projectVersion = 1.4
