@@ -6,3 +6,10 @@ Time for our famous summary... _Playing with an Adventure on VR? Then that pack 
 > [!IMPORTANT]
 > This VR Craft is not based on putting the 3D VR Gogglers for custom skins.
 > _(This is because there are millions of skins in Minecraft. This is only based on Steve and Alex because those are a bit common in servers.)_
+
+# What are Gogglers?
+**Gogglers** are little swimming glasses that makes you survive underwater. This is actually common for VR because it blocks the rest of the world.
+**Emoji:** 🥽
+# Why is this resource pack made?
+Because we wanted to make VR look like reality in the past. (because VR stands for Virtual Reality lol)
+(other FAQs in our [Modrinth](https://modrinth.com/resourcepack/vrc))
