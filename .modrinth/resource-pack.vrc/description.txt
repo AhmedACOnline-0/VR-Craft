@@ -1,0 +1,121 @@
+# 🕶️ VR Craft
+> Playing with an Adventure on VR? Then that pack is for you! Whatever you imagine on VR, there. Say goodbye to the Ugly Minecraft!
+
+[![VR Craft](https://cdn.modrinth.com/data/cached_images/e5e1e919fe4197bafccb4f7168707d3864267b48.jpeg)](https://modrinth.com/resourcepack/vrc)
+[![VR Craft](https://cdn.modrinth.com/data/cached_images/14fc098919233d026ed3f21ffc1556bc0843bca0.jpeg)](https://www.curseforge.com/minecraft/mc-resourcepacks/vrc)
+[![VR Craft](https://cdn.modrinth.com/data/cached_images/c69e166788111edd01f2251db038f325a85e4116.jpeg)](https://github.com/AhmedACOnline-0/anything/blob/main/VR%20Craft%201.3.zip)
+[![VR Craft](https://cdn.modrinth.com/data/cached_images/67f59ad124f4b3c2e3be53ae0940d27192b09580.jpeg)](https://sites.google.com/view/aclibraryx/notebooks/vr-craft)
+
+---
+
+## 🚀 About the Pack
+**VR Craft** is a highly optimized, immersive visual pack designed specifically for players using VR headsets (like Vivecraft). This pack removes annoying screen clutter and focuses on pure, real-life immersion while standing inside the blocky world!
+
+---
+
+## 🎬 YouTube Video (pack review)
+uhhh... it doesn't exist! :(
+
+---
+
+## ✨ Features
+
+### 🎯 Ultimate Immersion
+### 🛠️ Future-Proof Design
+- Built with a highly advanced, clean folder structure to prevent visual glitches and ensure smooth frame rates while rendering in a heavy virtual reality environment.
+
+---
+
+## 📦 How to Install
+1. Download the `.zip` file from this page.
+2. Open your Minecraft game directory and drop the zip into the `resourcepacks` folder.
+3. Boot up your game (Works brilliantly with VR mods like Vivecraft), go to **Options** -> **Resource Packs**, and move **VR Craft** to the top of the active list!
+
+Don't forget to install Vivecraft too!
+[![VR Craft](https://cdn.modrinth.com/data/cached_images/b105b7dd34d10cf6e61dabd96e936b93df1a7aab.png)](https://vivecraft.org)
+And Fabric API!
+
+---
+
+## 🔨 How the resource pack was made
+1. Invisible Crosshair
+   - By making the Crosshair invisible in the files (erasing the data inside).
+2. Custom Splashes
+   - By changing the splashes.txt file to add new splashes.
+3. Menu New Text
+   - By changing the lang folder to support almost every language to change the Menu's Text.
+4. Beautiful New Minecraft Title (VR Craft)
+   - By making the Title in Blockbench and then saving it as an image then putting it into `textures/gui/title`.
+5. Different Enchantment Glint Color
+   - By downloading the pack from John Paul Inso for changing Enchantment Glint Colors and then choosing the pink (instead of purple).
+   - Credits to creator also!
+
+Also, watch out for the Changelog since that's where new features will come!
+
+---
+
+## 😡 BRUH ERRORS WHILE CONNECTING TO VR HEADSET
+If you **installed Vivecraft** already and clicked the **VR: Off** button to turn it **on**, it may commonly give an error, why?
+
+- Vivecraft requires you to have SteamVR so it can translate your real-life moves into the game.
+
+### So how to fix this?
+Simple!
+
+1. Go to **Steam**
+   - **Tip:** If it requires you to sign in, just sign in!
+2. Install **SteamVR**
+3. Once it's installed, **click the little VR icon** on whatever position on the Steam app
+
+### Still?
+If it still gives you errors, it may be maybe this reason:
+
+**YOU DIDN'T CONNECT TO THE WIFI**.
+
+1. Connect to the WiFi on both the **VR** (Headset) and your **Computer**
+2. Once you're done, if needed, do the settings the VR asks you (though optional maybe)
+
+### I did all steps and still
+It sounds like you may gave a Quest 3 VR. Try **connecting the port to the computer** (nothing required for this)
+
+---
+
+## 😵‍💫 But I'm spinning
+If that happens, CHANGE YOUR SETTINGS IMMEDIATELY!!! There's an option on some VRs which are an **IPD** (Interpupillary Distance) thing. Change it to something like **1** or **2**.
+
+**HOWEVER**. If it's a value that makes it very blurry, you will get Motion Sickness (feel dizzy)
+
+---
+
+## But isn't playing VR easy?
+It's actually a bit hard if you're trying to open GUIs or interact. So to help you out, check this official YouTube video:
+
+<iframe width="100" height="100" src="https://www.youtube-nocookie.com/embed/HDMRhIaL8yI" title="Play YouTube Video" frameborder="100" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> BEFORE YOU INSTALL THE VIVECRAFT MOD, INSTALL **FABRIC API** OR NOTHING WILL WORK ON THIS VIDEO!!! THE VR MOD NEEDS THE API TO WORK. AND INSTALL **STEAMVR** TOO AS INCLUDED IN THE VIDEO.
+
+> And not our channel.
+
+---
+
+## Your tab
+
+<details>
+<summary>FAQs</summary>
+Your Frequently Asked Questions:
+
+  Q1. Does it work with Vivecraft?
+  A1. Yes. Also, you are required to install that mod while installing the resource pack.
+
+  Q2. Why does it have an invisble crosshair?
+  A2. Because we want to make VR look like reality.
+
+  Q3. Where can I manage the settings of the VR?
+  A3. You need to install Vivecraft.
+</details>
+
+**Submit a new FAQ [here](https://github.com/AhmedACOnline-0/VR-Craft/issues/new?q=state%3Aopen+label%3A%22help+wanted%22)**
+
+---
+
+VR Cratf lol
